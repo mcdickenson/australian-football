@@ -1,0 +1,494 @@
+weight,dob,height,player,link,team,position,color
+103,24-06-1988,182,Chris Alcock,http://www.foxsports.com.au/rugby/player?id=3934&name=chris-alcock&team=50017,westernforce,Flanker,#d17d61
+115,28-09-1990,204,Phoenix Battye,http://www.foxsports.com.au/rugby/player?id=4710&name=phoenix-battye&team=50017,westernforce,Flanker,#e0978c
+103,28-08-1984,189,Richard Brown,http://www.foxsports.com.au/rugby/player?id=978&name=richard-brown&team=50017,westernforce,Number 8
+104,09-01-1989,183,Nathan Charles,http://www.foxsports.com.au/rugby/player?id=4020&name=nathan-charles&team=50017,westernforce,Hooker,#da836b
+105,20-11-1989,191,Angus Cottrell,http://www.foxsports.com.au/rugby/player?id=8066&name=angus-cottrell&team=50017,westernforce,Flanker,#d57869
+116,02-06-1986,185,Pek Cowan,http://www.foxsports.com.au/rugby/player?id=980&name=pek-cowan&team=50017,westernforce,Prop
+117,26-07-1988,178,Tetera Faulkner,http://www.foxsports.com.au/rugby/player?id=4755&name=tetera-faulkner&team=50017,westernforce,Prop,#ca6e48
+108,21-05-1989,184,James Hilterbrand,http://www.foxsports.com.au/rugby/player?id=8448&name=james-hilterbrand&team=50017,westernforce,Prop
+103,25-06-1981,185,Matt Hodgson,http://www.foxsports.com.au/rugby/player?id=1244&name=matt-hodgson&team=50017,westernforce,Flanker,#d07d66
+113,20-12-1985,181,Kieran Longbottom,http://www.foxsports.com.au/rugby/player?id=2178&name=kieran-longbottom&team=50017,westernforce,Prop,#cd725b
+113,06-10-1984,197,Toby Lynn,http://www.foxsports.com.au/rugby/player?id=1431&name=toby-lynn&team=50017,westernforce,Lock
+118,22-03-1983,184,Salesi Ma'afu,http://www.foxsports.com.au/rugby/player?id=968&name=salesi-ma'afu&team=50017,westernforce,Prop
+122,26-09-1990,185,Salesi Manu,http://www.foxsports.com.au/rugby/player?id=8101&name=salesi-manu&team=50017,westernforce,Prop
+108,17-03-1990,194,Locky McCaffrey,http://www.foxsports.com.au/rugby/player?id=3997&name=locky-mccaffrey&team=50017,westernforce,Flanker
+114,01-11-1983,200,Hugh McMeniman,http://www.foxsports.com.au/rugby/player?id=1195&name=hugh-mcmeniman&team=50017,westernforce,Flanker,#d17765
+105,03-03-1984,182,Heath Tessmann,http://www.foxsports.com.au/rugby/player?id=4683&name=heath-tessmann&team=50017,westernforce,Hooker
+111,11-04-1989,195,Rory Walton,http://www.foxsports.com.au/rugby/player?id=8450&name=rory-walton&team=50017,westernforce,Lock,#d68b7a
+113,10-10-1989,189,Ben Whittaker,http://www.foxsports.com.au/rugby/player?id=3574&name=ben-whittaker&team=50017,westernforce,Hooker
+111,25-04-1988,197,Sam Wykes,http://www.foxsports.com.au/rugby/player?id=2181&name=sam-wykes&team=50017,westernforce,Lock
+99,05-10-1987,189,Nick Cummins,http://www.foxsports.com.au/rugby/player?id=2175&name=nick-cummins&team=50017,westernforce,Wing,#e27f66
+100,21-08-1986,192,Pat Dellit,http://www.foxsports.com.au/rugby/player?id=4693&name=pat-dellit&team=50017,westernforce,Wing
+94,29-03-1984,175,Chris Eaton,http://www.foxsports.com.au/rugby/player?id=4677&name=chris-eaton&team=50017,hurricanes,Scrum Half
+83,23-02-1989,176,Sias Ebersohn,http://www.foxsports.com.au/rugby/player?id=3996&name=sias-ebersohn&team=50017,westernforce,Fullback,#ce765f
+87,30-07-1992,187,Kyle Godwin,http://www.foxsports.com.au/rugby/player?id=8092&name=kyle-godwin&team=50017,westernforce,Fly Half,#b66448
+95,11-08-1987,185,Jayden Hayward,http://www.foxsports.com.au/rugby/player?id=3488&name=jayden-hayward&team=50017,westernforce,Centre,#d07d5f
+98,17-05-1982,185,Ben Jacobs,http://www.foxsports.com.au/rugby/player?id=1361&name=ben-jacobs&team=50017,westernforce,Centre,#d6af86
+95,08-06-1988,182,Alfie Mafi,http://www.foxsports.com.au/rugby/player?id=2170&name=alfie-mafi&team=50017,westernforce,Centre
+93,13-12-1985,173,Alby Mathewson,http://www.foxsports.com.au/rugby/player?id=1446&name=alby-mathewson&team=50017,westernforce,Scrum Half,#da7a68
+88,02-12-1983,188,Sam Norton-Knight,http://www.foxsports.com.au/rugby/player?id=919&name=sam-norton-knight&team=50017,westernforce,Centre
+102,09-04-1991,184,Junior Rasolea,http://www.foxsports.com.au/rugby/player?id=8443&name=junior-rasolea&team=50017,westernforce,Centre,#a24b2e
+90,16-09-1979,173,Brett Sheehan,http://www.foxsports.com.au/rugby/player?id=1167&name=brett-sheehan&team=50017,westernforce,Scrum Half
+91,18-12-1987,184,Mick Snowden,http://www.foxsports.com.au/rugby/player?id=8449&name=mick-snowden&team=50017,westernforce,Scrum Half
+95,11-02-1989,184,Winston Stanley,http://www.foxsports.com.au/rugby/player?id=3558&name=winston-stanley&team=50017,westernforce,Centre
+94,02-02-1989,184,Ed Stubbs,http://www.foxsports.com.au/rugby/player?id=4022&name=ed-stubbs&team=50017,westernforce,Centre,#df7f6e
+100,11-09-1986,189,Chris Tuatara-Morrison,http://www.foxsports.com.au/rugby/player?id=8446&name=chris-tuatara-morrison&team=50017,westernforce,Centre,#d7866c
+104,20-07-1990,195,Will Tupou,http://www.foxsports.com.au/rugby/player?id=7901&name=will-tupou&team=50017,westernforce,Centre
+120,25-04-1987,191,Richard Aho,http://www.foxsports.com.au/rugby/player?id=8637&name=richard-aho&team=50004,waratahs,Prop
+117,12-08-1988,200,Oliver Atkins,http://www.foxsports.com.au/rugby/player?id=8157&name=oliver-atkins&team=50004,waratahs,Lock
+110,15-03-1983,197,Mitchell Chapman,http://www.foxsports.com.au/rugby/player?id=1197&name=mitchell-chapman&team=50004,waratahs,Lock,#df8970
+122,07-10-1991,204,Adam Coleman,http://www.foxsports.com.au/rugby/player?id=8638&name=adam-coleman&team=50004,waratahs,Lock,#cd6d49
+113,10-01-1986,192,Dave Dennis,http://www.foxsports.com.au/rugby/player?id=1495&name=dave-dennis&team=50004,waratahs,Flanker,#d37d65
+122,01-06-1989,202,Kane Douglas,http://www.foxsports.com.au/rugby/player?id=3984&name=kane-douglas&team=50004,waratahs,Lock,#d97e6b
+106,08-06-1989,183,Damien Fitzpatrick,http://www.foxsports.com.au/rugby/player?id=3568&name=damien-fitzpatrick&team=50004,waratahs,Hooker
+104,19-06-1987,182,AJ Gilbert,http://www.foxsports.com.au/rugby/player?id=1395&name=aj-gilbert&team=50004,waratahs,Flanker
+109,02-11-1992,195,Jed Holloway,http://www.foxsports.com.au/rugby/player?id=8437&name=jed-holloway&team=50004,waratahs,Lock,#e59786
+106,14-11-1983,184,Luke Holmes,http://www.foxsports.com.au/rugby/player?id=983&name=luke-holmes&team=50004,waratahs,Hooker
+97,29-10-1991,182,Michael Hooper,http://www.foxsports.com.au/rugby/player?id=4016&name=michael-hooper&team=50004,waratahs,Flanker,#dc846f
+120,05-02-1986,188,Sekope Kepu,http://www.foxsports.com.au/rugby/player?id=2173&name=sekope-kepu&team=50004,waratahs,Prop
+105,24-06-1987,187,Patrick McCutcheon,http://www.foxsports.com.au/rugby/player?id=4029&name=patrick-mccutcheon&team=50004,waratahs,Flanker
+118,27-07-1982,194,Wycliff Palu,http://www.foxsports.com.au/rugby/player?id=1257&name=wycliff-palu&team=50004,waratahs,Number 8,#9f5a3c
+122,23-03-1990,204,Greg Peterson,http://www.foxsports.com.au/rugby/player?id=7891&name=greg-peterson&team=50004,waratahs,Lock,#de846d
+113,26-07-1985,181,Tatafu Polota-Nau,http://www.foxsports.com.au/rugby/player?id=966&name=tatafu-polota-nau&team=50004,waratahs,Hooker,#c76842
+113,19-07-1984,183,Benn Robinson,http://www.foxsports.com.au/rugby/player?id=1258&name=benn-robinson&team=50004,waratahs,Prop,#d17f68
+120,09-08-1988,189,Paddy Ryan,http://www.foxsports.com.au/rugby/player?id=4691&name=paddy-ryan&team=50004,waratahs,Prop,#d57a5e
+135,03-05-1992,203,Will Skelton,http://www.foxsports.com.au/rugby/player?id=8494&name=will-skelton&team=50004,waratahs,Lock,#b3643d
+120,02-06-1986,190,Jeremy Tilse,http://www.foxsports.com.au/rugby/player?id=2172&name=jeremy-tilse&team=50004,waratahs,Prop,#cc7557
+117,28-09-1990,193,Lopeti Timani,http://www.foxsports.com.au/rugby/player?id=8074&name=lopeti-timani&team=50004,waratahs,Flanker
+120,19-09-1986,203,Sitaleki Timani,http://www.foxsports.com.au/rugby/player?id=4713&name=sitaleki-timani&team=50004,waratahs,Lock
+113,17-10-1986,180,John Ulugia,http://www.foxsports.com.au/rugby/player?id=1213&name=john-ulugia&team=50004,waratahs,Hooker
+111,06-03-1986,194,Liam Winton,http://www.foxsports.com.au/rugby/player?id=8641&name=liam-winton&team=50004,waratahs,Lock
+98,27-03-1984,182,Adam Ashley-Cooper,http://www.foxsports.com.au/rugby/player?id=918&name=adam-ashley-cooper&team=50004,waratahs,Centre,#e29574
+87,28-05-1986,183,Berrick Barnes,http://www.foxsports.com.au/rugby/player?id=971&name=berrick-barnes&team=50004,waratahs,Fly Half
+98,06-01-1989,192,Peter Betham,http://www.foxsports.com.au/rugby/player?id=2869&name=peter-betham&team=50004,waratahs,Fullback,#d0764d
+98,25-02-1983,189,Tom Carter,http://www.foxsports.com.au/rugby/player?id=963&name=tom-carter&team=50004,waratahs,Centre
+98,14-11-1988,193,Cam Crawford,http://www.foxsports.com.au/rugby/player?id=7885&name=cam-crawford&team=50004,waratahs,Fullback,#e1957d
+101,03-04-1989,193,Israel Folau,http://www.foxsports.com.au/rugby/player?id=8435&name=israel-folau&team=50004,waratahs,Outside Back,#cc744f
+90,08-09-1989,182,Bernard Foley,http://www.foxsports.com.au/rugby/player?id=4929&name=bernard-foley&team=50004,waratahs,Fly Half,#cb7f6a
+92,19-06-1988,182,Grayson Hart,http://www.foxsports.com.au/rugby/player?id=3557&name=grayson-hart&team=50004,waratahs,Scrum Half
+96,03-01-1992,183,Terrence Hepetema,http://www.foxsports.com.au/rugby/player?id=8639&name=terrence-hepetema&team=50004,waratahs,Back
+90,27-05-1989,183,Michael Hodge,http://www.foxsports.com.au/rugby/player?id=8436&name=michael-hodge&team=50004,waratahs,Wing,#db886f
+90,15-08-1989,186,Rob Horne,http://www.foxsports.com.au/rugby/player?id=3085&name=rob-horne&team=50004,waratahs,Centre,#d8856a
+90,19-06-1991,190,Tom Kingston,http://www.foxsports.com.au/rugby/player?id=4733&name=tom-kingston&team=50004,waratahs,Wing,#b16a57
+86,21-02-1991,176,Sam Lane,http://www.foxsports.com.au/rugby/player?id=8091&name=sam-lane&team=50004,waratahs,Centre
+78,29-01-1992,174,Matt Lucas,http://www.foxsports.com.au/rugby/player?id=8438&name=matt-lucas&team=50004,waratahs,Scrum Half,#e19580
+86,19-09-1985,174,Brendan McKibbin,http://www.foxsports.com.au/rugby/player?id=3569&name=brendan-mckibbin&team=50004,waratahs,Scrum Half,#da8971
+95,26-03-1984,182,Drew Mitchell,http://www.foxsports.com.au/rugby/player?id=1367&name=drew-mitchell&team=50004,waratahs,Wing
+94,11-05-1987,189,Lachie Turner,http://www.foxsports.com.au/rugby/player?id=1419&name=lachie-turner&team=50004,waratahs,Wing,#e0aa97
+89,13-01-1991,191,Ben Volavola,http://www.foxsports.com.au/rugby/player?id=8439&name=ben-volavola&team=50004,waratahs,Fly Half,#b76743
+110,23-09-1988,191,Don Armand,http://www.foxsports.com.au/rugby/player?id=8100&name=don-armand&team=50006,stormers,Flanker
+120,05-12-1983,208,Andries Bekker,http://www.foxsports.com.au/rugby/player?id=1157&name=andries-bekker&team=50006,stormers,Lock
+104,21-08-1989,183,Martin Bezuidenhout,http://www.foxsports.com.au/rugby/player?id=4703&name=martin-bezuidenhout&team=50006,stormers,Hooker,#ae7868
+114,13-04-1983,193,Schalk Burger,http://www.foxsports.com.au/rugby/player?id=917&name=schalk-burger&team=50006,stormers,Flanker,#df8e7e
+102,04-04-1991,184,Nizaam Carr,http://www.foxsports.com.au/rugby/player?id=8058&name=nizaam-carr&team=50006,stormers,Flanker,#c57957
+110,03-03-1987,185,Patrick Cilliers,http://www.foxsports.com.au/rugby/player?id=1485&name=patrick-cilliers&team=50006,stormers,Prop
+110,04-04-1984,200,Marius Coetzer,http://www.foxsports.com.au/rugby/player?id=8078&name=marius-coetzer&team=50006,stormers,Lock
+114,20-12-1989,193,Rynhardt Elstadt,http://www.foxsports.com.au/rugby/player?id=4697&name=rynhardt-elstadt&team=50006,stormers,Lock,#d1826a
+118,29-10-1991,204,Eben Etzebeth,http://www.foxsports.com.au/rugby/player?id=8060&name=eben-etzebeth&team=50006,stormers,Lock
+100,25-09-1986,178,Deon Fourie,http://www.foxsports.com.au/rugby/player?id=3082&name=deon-fourie&team=50006,stormers,Hooker,#c57b5e
+120,19-04-1983,188,Ross Geldenhuys,http://www.foxsports.com.au/rugby/player?id=3072&name=ross-geldenhuys&team=50006,lions,Prop
+95,06-02-1992,199,Gerbrandt Grobler,http://www.foxsports.com.au/rugby/player?id=8490&name=gerbrandt-grobler&team=50006,stormers,Lock
+117,22-02-1985,184,Brok Harris,http://www.foxsports.com.au/rugby/player?id=1468&name=brok-harris&team=50006,stormers,Prop,#dd8f7a
+115,01-06-1985,183,Chris Heiberg,http://www.foxsports.com.au/rugby/player?id=8595&name=chris-heiberg&team=50006,stormers,Prop,#d47e5f
+97,13-09-1985,183,Rohan Kitshoff,http://www.foxsports.com.au/rugby/player?id=6035&name=rohan-kitshoff&team=50006,stormers,Flanker
+117,10-02-1992,184,Steven Kitshoff,http://www.foxsports.com.au/rugby/player?id=4747&name=steven-kitshoff&team=50006,stormers,Prop,#e29685
+102,16-06-1991,187,Siyamthanda Kolisi,http://www.foxsports.com.au/rugby/player?id=4698&name=siyamthanda-kolisi&team=50006,stormers,Flanker
+110,18-12-1981,182,Tiaan Liebenberg,http://www.foxsports.com.au/rugby/player?id=1022&name=tiaan-liebenberg&team=50006,stormers,Hooker,#d88575
+122,14-03-1991,190,Frans Malherbe,http://www.foxsports.com.au/rugby/player?id=4720&name=frans-malherbe&team=50006,stormers,Prop,#d27c69
+100,18-02-1991,174,Siyabonga Ntubeni,http://www.foxsports.com.au/rugby/player?id=4719&name=siyabonga-ntubeni&team=50006,stormers,Hooker
+110,19-12-1987,197,Michael Rhodes,http://www.foxsports.com.au/rugby/player?id=3929&name=michael-rhodes&team=50006,stormers,Flanker,#cb7e60
+112,16-02-1987,197,De Kock Steenkamp,http://www.foxsports.com.au/rugby/player?id=3978&name=de-kock-steenkamp&team=50006,stormers,Lock,#d78f78
+116,03-07-1986,193,Duane Vermeulen,http://www.foxsports.com.au/rugby/player?id=1488&name=duane-vermeulen&team=50006,stormers,Number 8,#db8c70
+80,06-10-1982,175,Gio Aplon,http://www.foxsports.com.au/rugby/player?id=1411&name=gio-aplon&team=50006,stormers,Fullback
+84,29-01-1990,177,Kurt Coleman,http://www.foxsports.com.au/rugby/player?id=4743&name=kurt-coleman&team=50006,stormers,Fly Half
+100,25-11-1991,189,Damian de Allende,http://www.foxsports.com.au/rugby/player?id=8479&name=damian-de-allende&team=50006,stormers,Centre
+88,15-04-1988,177,Juan de Jongh,http://www.foxsports.com.au/rugby/player?id=3100&name=juan-de-jongh&team=50006,stormers,Centre
+100,24-02-1981,191,Jean de Villiers,http://www.foxsports.com.au/rugby/player?id=1306&name=jean-de-villiers&team=50006,stormers,Centre
+92,29-04-1991,185,JP du Plessis,http://www.foxsports.com.au/rugby/player?id=4680&name=jp-du-plessis&team=50006,stormers,Centre
+82,22-05-1988,173,Dewaldt Duvenage,http://www.foxsports.com.au/rugby/player?id=3509&name=dewaldt-duvenage&team=50006,stormers,Scrum Half
+93,15-08-1984,186,Peter Grant,http://www.foxsports.com.au/rugby/player?id=1008&name=peter-grant&team=50006,stormers,Fly Half
+84,21-02-1990,173,Nic Groom,http://www.foxsports.com.au/rugby/player?id=4928&name=nic-groom&team=50006,stormers,Scrum Half
+94,12-06-1983,179,Bryan Habana,http://www.foxsports.com.au/rugby/player?id=1311&name=bryan-habana&team=50006,stormers,Wing
+88,01-08-1990,176,Elton Jantjies,http://www.foxsports.com.au/rugby/player?id=4141&name=elton-jantjies&team=50006,stormers,Fly Half
+69,28-10-1993,170,Cheslin Kolbe,http://www.foxsports.com.au/rugby/player?id=8491&name=cheslin-kolbe&team=50006,stormers,Fullback
+83,18-05-1984,177,Joe Pietersen,http://www.foxsports.com.au/rugby/player?id=1209&name=joe-pietersen&team=50006,stormers,Fullback
+83,25-04-1990,185,Louis Schreuder,http://www.foxsports.com.au/rugby/player?id=4752&name=louis-schreuder&team=50006,stormers,Scrum Half
+95,21-03-1991,187,Jaco Taute,http://www.foxsports.com.au/rugby/player?id=4033&name=jaco-taute&team=50006,stormers,Fullback
+87,18-02-1990,178,Gary van Aswegen,http://www.foxsports.com.au/rugby/player?id=4718&name=gary-van-aswegen&team=50006,stormers,Fly Half
+98,13-04-1989,190,Gerhard van den Heever,http://www.foxsports.com.au/rugby/player?id=3564&name=gerhard-van-den-heever&team=50006,stormers,Wing
+112,12-10-1989,198,Daniel Adongo,http://www.foxsports.com.au/rugby/player?id=8042&name=daniel-adongo&team=50080,southernkings,Flanker
+113,27-08-1991,199,Rynier Mark Bernardo,http://www.foxsports.com.au/rugby/player?id=8461&name=rynier-mark-bernardo&team=50080,southernkings,Lock
+113,12-09-1989,199,David Bulbring,http://www.foxsports.com.au/rugby/player?id=4045&name=david-bulbring&team=50080,southernkings,Lock,#c68382
+120,26-04-1986,191,Kevin Buys,http://www.foxsports.com.au/rugby/player?id=3972&name=kevin-buys&team=50080,southernkings,Prop
+100,29-04-1994,191,Aidon Davis,http://www.foxsports.com.au/rugby/player?id=8670&name=aidon-davis&team=50080,southernkings,Back Row
+113,08-04-1987,187,Charl du Plessis,http://www.foxsports.com.au/rugby/player?id=8668&name=charl-du-plessis&team=50080,southernkings,Prop
+107,23-03-1991,190,Cornell du Preez,http://www.foxsports.com.au/rugby/player?id=8462&name=cornell-du-preez&team=50080,southernkings,Flanker
+112,10-06-1985,194,Jacques Engelbrecht,http://www.foxsports.com.au/rugby/player?id=8464&name=jacques-engelbrecht&team=50080,southernkings,Flanker,#c07f79
+125,17-12-1980,185,Jaco Engels,http://www.foxsports.com.au/rugby/player?id=993&name=jaco-engels&team=50080,southernkings,Prop
+115,09-02-1984,188,Schalk Ferreira,http://www.foxsports.com.au/rugby/player?id=1412&name=schalk-ferreira&team=50080,southernkings,Prop
+110,06-10-1981,181,Johannes Franklin,http://www.foxsports.com.au/rugby/player?id=3989&name=johannes-franklin&team=50080,southernkings,Hooker
+120,19-04-1983,188,Ross Geldenhuys,http://www.foxsports.com.au/rugby/player?id=3072&name=ross-geldenhuys&team=50080,lions,Prop
+119,31-10-1988,187,Grant Kemp,http://www.foxsports.com.au/rugby/player?id=8489&name=grant-kemp&team=50080,southernkings,Prop
+103,07-07-1984,181,Virgile Lacombe,http://www.foxsports.com.au/rugby/player?id=8467&name=virgile-lacombe&team=50080,southernkings,Hooker
+106,07-01-1987,195,Tomas Leonardi,http://www.foxsports.com.au/rugby/player?id=3861&name=tomas-leonardi&team=50080,southernkings,Flanker
+106,24-07-1986,186,Bandise Maku,http://www.foxsports.com.au/rugby/player?id=3105&name=bandise-maku&team=50080,southernkings,Hooker,#784c46
+110,29-07-1986,195,Thabo Mamojele,http://www.foxsports.com.au/rugby/player?id=8669&name=thabo-mamojele&team=50080,southernkings,Back Row
+93,20-12-1987,174,Edgar Marutlulle,http://www.foxsports.com.au/rugby/player?id=4726&name=edgar-marutlulle&team=50080,southernkings,Hooker
+101,07-02-1983,183,Mpho Mbiyozo,http://www.foxsports.com.au/rugby/player?id=8469&name=mpho-mbiyozo&team=50080,southernkings,Flanker
+110,03-08-1980,194,Darron Nell,http://www.foxsports.com.au/rugby/player?id=1467&name=darron-nell&team=50080,southernkings,Number 8
+108,28-05-1988,193,Devin Oosthuizen,http://www.foxsports.com.au/rugby/player?id=8470&name=devin-oosthuizen&team=50080,southernkings,Flanker
+116,05-08-1984,198,Steven Sykes,http://www.foxsports.com.au/rugby/player?id=1464&name=steven-sykes&team=50080,southernkings,Lock
+107,06-01-1989,188,Wimpie van der Walt,http://www.foxsports.com.au/rugby/player?id=8475&name=wimpie-van-der-walt&team=50080,southernkings,Flanker
+100,26-10-1983,183,Luke Watson,http://www.foxsports.com.au/rugby/player?id=1191&name=luke-watson&team=50080,southernkings,Number 8
+86,06-07-1989,179,Demetri Catrakilis,http://www.foxsports.com.au/rugby/player?id=8059&name=demetri-catrakilis&team=50080,southernkings,Fly Half
+90,05-04-1984,183,Ronald Cooke,http://www.foxsports.com.au/rugby/player?id=1019&name=ronald-cooke&team=50080,southernkings,Centre
+91,27-09-1992,182,Shane Gates,http://www.foxsports.com.au/rugby/player?id=8593&name=shane-gates&team=50080,southernkings,Fly Half
+91,16-08-1989,176,Siyanda Grey,http://www.foxsports.com.au/rugby/player?id=8466&name=siyanda-grey&team=50080,southernkings,Centre
+90,18-05-1987,177,Johan Herbst,http://www.foxsports.com.au/rugby/player?id=8480&name=johan-herbst&team=50080,southernkings,Scrum Half
+92,22-11-1983,181,Michael Killian,http://www.foxsports.com.au/rugby/player?id=3498&name=michael-killian&team=50080,southernkings,Wing
+90,16-03-1989,185,SP Marais,http://www.foxsports.com.au/rugby/player?id=8468&name=sp-marais&team=50080,southernkings,Fullback
+105,27-04-1986,190,Waylon Murray,http://www.foxsports.com.au/rugby/player?id=1010&name=waylon-murray&team=50080,southernkings,Centre,#d28f77
+101,05-10-1987,187,Hadleigh Parkes,http://www.foxsports.com.au/rugby/player?id=5466&name=hadleigh-parkes&team=50080,southernkings,Centre
+80,01-08-1994,172,Sergeal Petersen,http://www.foxsports.com.au/rugby/player?id=8471&name=sergeal-petersen&team=50080,southernkings,Wing
+85,27-03-1987,183,Marcello Sampson,http://www.foxsports.com.au/rugby/player?id=8472&name=marcello-sampson&team=50080,southernkings,Wing
+83,07-12-1992,174,Siviwe Soyizwapi,http://www.foxsports.com.au/rugby/player?id=8473&name=siviwe-soyizwapi&team=50080,southernkings,Fullback
+94,05-03-1984,186,Andries Strauss,http://www.foxsports.com.au/rugby/player?id=1032&name=andries-strauss&team=50080,southernkings,Centre
+null,12-12-1991,null,Scott van Breda,http://www.foxsports.com.au/rugby/player?id=8495&name=scott-van-breda&team=50080,southernkings,Outside Back
+93,08-04-1985,181,Elric van Vuuren,http://www.foxsports.com.au/rugby/player?id=8476&name=elric-van-vuuren&team=50080,southernkings,Fullback
+88,16-03-1987,185,Shaun Venter,http://www.foxsports.com.au/rugby/player?id=8477&name=shaun-venter&team=50080,southernkings,Scrum Half,#b97b62
+77,20-08-1983,169,Nicolas Vergallo,http://www.foxsports.com.au/rugby/player?id=1588&name=nicolas-vergallo&team=50080,southernkings,Scrum Half
+86,17-03-1989,184,George Whitehead,http://www.foxsports.com.au/rugby/player?id=8478&name=george-whitehead&team=50080,southernkings,Fly Half
+102,05-05-1990,193,Nigel Ah Wong,http://www.foxsports.com.au/rugby/player?id=8440&name=nigel-ah-wong&team=50005,reds,Flanker
+114,21-06-1989,185,Albert Anae,http://www.foxsports.com.au/rugby/player?id=4688&name=albert-anae&team=50005,reds,Hooker,#bc806b
+108,30-10-1993,190,Curtis Browning,http://www.foxsports.com.au/rugby/player?id=8488&name=curtis-browning&team=50005,reds,Back Row,#d6a492
+106,20-07-1991,186,Jarrad Butler,http://www.foxsports.com.au/rugby/player?id=8161&name=jarrad-butler&team=50005,reds,Number 8,#985e43
+112,27-06-1988,184,Ben Daley,http://www.foxsports.com.au/rugby/player?id=2182&name=ben-daley&team=50005,reds,Prop,#cc9587
+110,26-01-1986,184,Kevin Davis,http://www.foxsports.com.au/rugby/player?id=8441&name=kevin-davis&team=50005,reds,Prop
+112,12-10-1991,198,Blake Enever,http://www.foxsports.com.au/rugby/player?id=8158&name=blake-enever&team=50005,reds,Unknown
+108,02-02-1987,187,Saia Faingaa,http://www.foxsports.com.au/rugby/player?id=1038&name=saia-fainga'a&team=50005,reds,Hooker,#c08369
+96,08-06-1992,183,Liam Gill,http://www.foxsports.com.au/rugby/player?id=4687&name=liam-gill&team=50005,reds,Flanker,#c69686
+104,15-09-1988,183,James Hanson,http://www.foxsports.com.au/rugby/player?id=3925&name=james-hanson&team=50005,reds,Hooker,#d49d8c
+114,11-06-1983,187,Greg Holmes,http://www.foxsports.com.au/rugby/player?id=1196&name=greg-holmes&team=50005,reds,Prop,#cb9683
+116,29-05-1985,200,James Horwill,http://www.foxsports.com.au/rugby/player?id=973&name=james-horwill&team=50005,reds,Lock,#e0ae9d
+115,07-04-1989,196,David McDuling,http://www.foxsports.com.au/rugby/player?id=7889&name=david-mcduling&team=50005,reds,Lock,#dcada1
+114,24-06-1982,198,Ed O'Donoghue,http://www.foxsports.com.au/rugby/player?id=1396&name=ed-o'donoghue&team=50005,reds,Lock,#dab1a2
+119,01-11-1986,186,Jono Owen,http://www.foxsports.com.au/rugby/player?id=4738&name=jono-owen&team=50005,reds,Prop,#c1917f
+108,28-08-1991,191,Ed Quirk,http://www.foxsports.com.au/rugby/player?id=4041&name=ed-quirk&team=50005,reds,Flanker
+97,15-08-1986,180,Beau Robinson,http://www.foxsports.com.au/rugby/player?id=1471&name=beau-robinson&team=50005,reds,Flanker,#d4a699
+117,09-07-1976,198,Radike Samo,http://www.foxsports.com.au/rugby/player?id=258&name=radike-samo&team=50005,reds,Lock
+109,25-07-1990,192,Jake Schatz,http://www.foxsports.com.au/rugby/player?id=3995&name=jake-schatz&team=50005,reds,Flanker,#d49e89
+115,19-04-1989,200,Rob Simmons,http://www.foxsports.com.au/rugby/player?id=2183&name=rob-simmons&team=50005,reds,Lock,#d5a08f
+117,06-06-1989,186,James Slipper,http://www.foxsports.com.au/rugby/player?id=3986&name=james-slipper&team=50005,reds,Prop,#c48876
+114,24-09-1979,200,Adam Wallace-Harrison,http://www.foxsports.com.au/rugby/player?id=1368&name=adam-wallace-harrison&team=50005,reds,Lock
+92,05-04-1988,186,Quade Cooper,http://www.foxsports.com.au/rugby/player?id=1393&name=quade-cooper&team=50005,reds,Fly Half,#c48e76
+90,18-05-1989,180,Rod Davies,http://www.foxsports.com.au/rugby/player?id=3503&name=rod-davies&team=50005,reds,Fullback,#c3907b
+92,02-02-1987,182,Anthony Faingaa,http://www.foxsports.com.au/rugby/player?id=1383&name=anthony-fainga'a&team=50005,reds,Centre,#b97f67
+92,17-11-1993,181,Chris Feauai-Sautia,http://www.foxsports.com.au/rugby/player?id=7890&name=chris-feauai-sautia&team=50005,reds,Wing,#c58f76
+84,29-10-1992,184,Nick Frisby,http://www.foxsports.com.au/rugby/player?id=8075&name=nick-frisby&team=50005,reds,Scrum Half,#c79686
+82,17-01-1988,174,Will Genia,http://www.foxsports.com.au/rugby/player?id=1462&name=will-genia&team=50005,reds,Scrum Half,#b67456
+96,08-07-1988,186,Michael Harris,http://www.foxsports.com.au/rugby/player?id=4686&name=michael-harris&team=50005,reds,Centre,#d3a595
+96,14-07-1985,182,Digby Ioane,http://www.foxsports.com.au/rugby/player?id=984&name=digby-ioane&team=50005,reds,Wing
+92,27-06-1990,183,Jono Lance,http://www.foxsports.com.au/rugby/player?id=4926&name=jono-lance&team=50005,reds,Fullback,#de856d
+84,30-12-1987,178,Ben Lucas,http://www.foxsports.com.au/rugby/player?id=3079&name=ben-lucas&team=50005,reds,Scrum Half,#d5aaa0
+95,13-04-1990,189,Luke Morahan,http://www.foxsports.com.au/rugby/player?id=3571&name=luke-morahan&team=50005,reds,Wing,#dc886e
+94,09-12-1993,185,Uj Seuteni,http://www.foxsports.com.au/rugby/player?id=8442&name=uj-seuteni&team=50005,reds,Fly Half
+94,04-01-1991,186,Dom Shipperley,http://www.foxsports.com.au/rugby/player?id=4690&name=dom-shipperley&team=50005,reds,Wing
+95,19-01-1989,180,Ben Tapuai,http://www.foxsports.com.au/rugby/player?id=3582&name=ben-tapuai&team=50005,reds,Wing,#be7c5e
+92,19-01-1990,183,Aidan Toua,http://www.foxsports.com.au/rugby/player?id=4714&name=aidan-toua&team=50005,reds,Wing,#a15a3f
+115,10-08-1990,181,Cruze Ah-Nau,http://www.foxsports.com.au/rugby/player?id=8431&name=cruze-ah-nau&team=50051,melbournerebels,Prop,#8d4f3e
+120,03-12-1981,190,Eddie Aholelei,http://www.foxsports.com.au/rugby/player?id=8097&name=eddie-aholelei&team=50051,melbournerebels,Prop,#98533d
+119,22-12-1991,181,Paul Alo-Emile,http://www.foxsports.com.au/rugby/player?id=4709&name=paul-alo-emile&team=50051,melbournerebels,Prop,#975a4c
+103,03-11-1982,192,Tim Davidson,http://www.foxsports.com.au/rugby/player?id=981&name=tim-davidson&team=50051,melbournerebels,Number 8
+114,30-12-1982,191,Gareth Delve,http://www.foxsports.com.au/rugby/player?id=2929&name=gareth-delve&team=50051,melbournerebels,Flanker
+102,20-06-1989,189,Trent Dyer,http://www.foxsports.com.au/rugby/player?id=8432&name=trent-dyer&team=50051,melbournerebels,Back Row
+101,16-04-1987,183,Scott Fuglistaller,http://www.foxsports.com.au/rugby/player?id=5453&name=scott-fuglistaller&team=50051,melbournerebels,Flanker
+112,01-05-1981,187,Nic Henderson,http://www.foxsports.com.au/rugby/player?id=1245&name=nic-henderson&team=50051,melbournerebels,Prop
+110,05-09-1986,195,Scott Higginbotham,http://www.foxsports.com.au/rugby/player?id=3102&name=scott-higginbotham&team=50051,melbournerebels,Flanker,#925445
+102,21-01-1986,180,Shota Horie,http://www.foxsports.com.au/rugby/player?id=5949&name=shota-horie&team=50051,melbournerebels,Hooker,#bd8177
+110,02-04-1991,196,Luke Jones,http://www.foxsports.com.au/rugby/player?id=3941&name=luke-jones&team=50051,melbournerebels,Lock,#8e5241
+114,16-03-1987,200,James King,http://www.foxsports.com.au/rugby/player?id=4730&name=james-king&team=50051,melbournerebels,Lock
+108,16-03-1989,181,Pat Leafa,http://www.foxsports.com.au/rugby/player?id=8626&name=pat-leafa&team=50051,melbournerebels,Hooker,#935540
+120,09-11-1988,202,Cadeyrn Neville,http://www.foxsports.com.au/rugby/player?id=8103&name=cadeyrn-neville&team=50051,melbournerebels,Lock,#b77364
+117,21-09-1988,201,Hugh Pyle,http://www.foxsports.com.au/rugby/player?id=4684&name=hugh-pyle&team=50051,melbournerebels,Lock,#DAA293
+107,03-10-1991,183,Jordy Reid,http://www.foxsports.com.au/rugby/player?id=8434&name=jordy-reid&team=50051,melbournerebels,Flanker,#ba6d5c
+105,20-06-1983,178,Ged Robinson,http://www.foxsports.com.au/rugby/player?id=3552&name=ged-robinson&team=50051,melbournerebels,Hooker,#9F705C
+107,24-10-1984,189,Jarrod Saffy,http://www.foxsports.com.au/rugby/player?id=4681&name=jarrod-saffy&team=50051,melbournerebels,Flanker
+117,10-07-1985,204,Chris Thomson,http://www.foxsports.com.au/rugby/player?id=3514&name=chris-thomson&team=50051,melbournerebels,Lock,#da7d56
+115,05-04-1986,180,Laurie Weeks,http://www.foxsports.com.au/rugby/player?id=3506&name=laurie-weeks&team=50051,melbournerebels,Prop,#a95f51
+90,06-01-1989,180,Kurtley Beale,http://www.foxsports.com.au/rugby/player?id=1417&name=kurtley-beale&team=50051,melbournerebels,Fullback,#9c5438
+89,20-08-1983,179,Luke Burgess,http://www.foxsports.com.au/rugby/player?id=1324&name=luke-burgess&team=50051,melbournerebels,Scrum Half,#97604e
+96,08-03-1991,187,Tom English,http://www.foxsports.com.au/rugby/player?id=8433&name=tom-english&team=50051,melbournerebels,Centre,#bc695a
+90,28-08-1992,184,Bryce Hegarty,http://www.foxsports.com.au/rugby/player?id=8430&name=bryce-hegarty&team=50051,melbournerebels,Fly Half,#de7d5a
+93,29-03-1982,182,James Hilgendorf,http://www.foxsports.com.au/rugby/player?id=982&name=james-hilgendorf&team=50051,melbournerebels,Outside Back
+105,24-10-1988,191,Mitch Inman,http://www.foxsports.com.au/rugby/player?id=3940&name=mitch-inman&team=50051,melbournerebels,Centre,#ad6654
+80,17-03-1989,177,Richard Kingi,http://www.foxsports.com.au/rugby/player?id=3573&name=richard-kingi&team=50051,melbournerebels,Scrum Half
+94,30-09-1987,178,Lachlan Mitchell,http://www.foxsports.com.au/rugby/player?id=4678&name=lachlan-mitchell&team=50051,melbournerebels,Centre,#a86956
+89,05-07-1990,180,James O'Connor,http://www.foxsports.com.au/rugby/player?id=2179&name=james-o'connor&team=50051,melbournerebels,Centre
+87,09-01-1989,180,Nick Phipps,http://www.foxsports.com.au/rugby/player?id=4685&name=nick-phipps&team=50051,melbournerebels,Scrum Half,#cc7456
+92,17-12-1990,186,Angus Roberts,http://www.foxsports.com.au/rugby/player?id=8429&name=angus-roberts&team=50051,melbournerebels,Fly Half,#9c5a4c
+91,06-10-1989,183,Alex Rokobaro,http://www.foxsports.com.au/rugby/player?id=8413&name=alex-rokobaro&team=50051,melbournerebels,Fullback,#995f4c
+97,04-07-1986,187,Rory Sidey,http://www.foxsports.com.au/rugby/player?id=3938&name=rory-sidey&team=50051,melbournerebels,Centre
+93,21-04-1991,183,Kimami Sitauti,http://www.foxsports.com.au/rugby/player?id=4689&name=kimami-sitauti&team=50051,melbournerebels,Wing
+80,08-03-1991,179,Nic Stirzaker,http://www.foxsports.com.au/rugby/player?id=8090&name=nic-stirzaker&team=50051,melbournerebels,Scrum Half,#b8766c
+100,05-07-1987,187,Cooper Vuna,http://www.foxsports.com.au/rugby/player?id=4679&name=cooper-vuna&team=50051,melbournerebels,Wing
+97,17-05-1990,188,Jason Woodward,http://www.foxsports.com.au/rugby/player?id=5564&name=jason-woodward&team=50051,melbournerebels,Fullback,#c17362
+122,01-12-1987,201,James Broadhurst,http://www.foxsports.com.au/rugby/player?id=3920&name=james-broadhurst&team=50011,hurricanes,Lock,#dc9f87
+108,10-12-1986,184,Dane Coles,http://www.foxsports.com.au/rugby/player?id=3492&name=dane-coles&team=50011,hurricanes,Hooker,#cd8971
+103,01-09-1988,180,Ash Dixon,http://www.foxsports.com.au/rugby/player?id=4644&name=ash-dixon&team=50011,hurricanes,Hooker,#c0886f
+115,21-08-1982,202,Jason Eaton,http://www.foxsports.com.au/rugby/player?id=950&name=jason-eaton&team=50011,hurricanes,Lock
+118,27-03-1984,183,Ben Franks,http://www.foxsports.com.au/rugby/player?id=956&name=ben-franks&team=50011,hurricanes,Prop,#c39a90
+112,04-04-1992,184,Reggie Goodes,http://www.foxsports.com.au/rugby/player?id=5589&name=reggie-goodes&team=50011,hurricanes,Prop
+103,18-11-1987,188,Jack Lam,http://www.foxsports.com.au/rugby/player?id=4675&name=jack-lam&team=50011,hurricanes,Flanker,#bd7860
+111,15-01-1986,193,Faifili Levave,http://www.foxsports.com.au/rugby/player?id=2158&name=faifili-levave&team=50011,hurricanes,Flanker,#bb7253
+104,17-09-1984,181,Karl Lowe,http://www.foxsports.com.au/rugby/player?id=3494&name=karl-lowe&team=50011,hurricanes,Flanker
+108,30-04-1987,184,Motu Matu'u,http://www.foxsports.com.au/rugby/player?id=5454&name=motu-matu'u&team=50011,hurricanes,Hooker
+124,13-10-1982,193,Ben May,http://www.foxsports.com.au/rugby/player?id=1436&name=ben-may&team=50011,hurricanes,Prop
+112,03-03-1985,196,Mark Reddish,http://www.foxsports.com.au/rugby/player?id=4674&name=mark-reddish&team=50011,hurricanes,Lock,#da9883
+95,14-10-1993,188,Ardie Savea,http://www.foxsports.com.au/rugby/player?id=8259&name=ardie-savea&team=50011,hurricanes,Back Row
+122,28-09-1983,187,John Schwalger,http://www.foxsports.com.au/rugby/player?id=952&name=john-schwalger&team=50011,hurricanes,Prop,#d68c73
+111,02-04-1991,196,Brad Shields,http://www.foxsports.com.au/rugby/player?id=5588&name=brad-shields&team=50011,hurricanes,Flanker
+126,29-10-1992,184,Eric Sione,http://www.foxsports.com.au/rugby/player?id=8299&name=eric-sione&team=50011,hurricanes,Prop
+115,19-04-1985,198,Jeremy Thrush,http://www.foxsports.com.au/rugby/player?id=2167&name=jeremy-thrush&team=50011,hurricanes,Lock,#dc9d87
+125,19-11-1990,192,Jeffery Toomaga-Allen,http://www.foxsports.com.au/rugby/player?id=5575&name=jeffery-toomaga-allen&team=50011,hurricanes,Prop
+109,27-03-1987,192,Victor Vito,http://www.foxsports.com.au/rugby/player?id=3496&name=victor-vito&team=50011,hurricanes,Flanker,#bb7556
+92,27-05-1991,187,Beauden Barrett,http://www.foxsports.com.au/rugby/player?id=4735&name=beauden-barrett&team=50011,hurricanes,Wing
+91,03-06-1987,183,Tim Bateman,http://www.foxsports.com.au/rugby/player?id=1435&name=tim-bateman&team=50011,hurricanes,Centre
+95,27-05-1989,184,Richard Buckman,http://www.foxsports.com.au/rugby/player?id=4751&name=richard-buckman&team=50011,hurricanes,Wing
+105,29-11-1987,187,Samisoni Fisilau,http://www.foxsports.com.au/rugby/player?id=5468&name=samisoni-fisilau&team=50011,hurricanes,Scrum Half
+85,08-02-1983,183,Cory Jane,http://www.foxsports.com.au/rugby/player?id=1445&name=cory-jane&team=50011,hurricanes,Fullback
+96,21-09-1988,185,Alapata Leiua,http://www.foxsports.com.au/rugby/player?id=4010&name=alapati-leiua&team=50011,hurricanes,Centre
+88,11-02-1992,173,Opetera Peleseuma,http://www.foxsports.com.au/rugby/player?id=8261&name=opetera-peleseuma&team=50011,hurricanes,Centre
+94,23-01-1992,184,TJ Perenara,http://www.foxsports.com.au/rugby/player?id=5602&name=tj-perenara&team=50011,hurricanes,Scrum Half
+91,18-06-1982,183,Tusi Pisi,http://www.foxsports.com.au/rugby/player?id=1440&name=tusi-pisi&team=50011,hurricanes,Fly Half
+90,26-10-1992,180,Matt  Proctor,http://www.foxsports.com.au/rugby/player?id=5605&name=matt-proctor&team=50011,hurricanes,Wing,#9f726b
+103,07-08-1990,192,Julian Savea,http://www.foxsports.com.au/rugby/player?id=4673&name=julian-savea&team=50011,hurricanes,Wing,#ad654b
+95,12-10-1981,186,Conrad Smith,http://www.foxsports.com.au/rugby/player?id=1347&name=conrad-smith&team=50011,hurricanes,Centre,#ba8c76
+91,22-03-1982,180,Chris Smylie,http://www.foxsports.com.au/rugby/player?id=962&name=chris-smylie&team=50011,hurricanes,Scrum Half
+93,11-01-1988,180,Andre Taylor,http://www.foxsports.com.au/rugby/player?id=3923&name=andre-taylor&team=50011,hurricanes,Wing,#c38673
+106,04-12-1990,198,Blade Thomson,http://www.foxsports.com.au/rugby/player?id=5577&name=blade-thomson&team=50011,hurricanes,Centre
+111,26-04-1986,200,Josh Bekhuis,http://www.foxsports.com.au/rugby/player?id=3486&name=josh-bekhuis&team=50003,highlanders,Lock,#CCB098
+98,19-02-1984,189,Tim Boys,http://www.foxsports.com.au/rugby/player?id=959&name=tim-boys&team=50003,highlanders,Flanker
+109,25-01-1990,185,Liam Coltman,http://www.foxsports.com.au/rugby/player?id=5546&name=liam-coltman&team=50003,highlanders,Hooker
+110,04-09-1989,193,Elliot Dixon,http://www.foxsports.com.au/rugby/player?id=4668&name=elliot-dixon&team=50003,highlanders,Number 8,#A5765C
+114,22-11-1989,180,Ma'afu Fia,http://www.foxsports.com.au/rugby/player?id=5537&name=ma'afu-fia&team=50003,highlanders,Prop
+103,27-07-1988,183,John Hardie,http://www.foxsports.com.au/rugby/player?id=3917&name=john-hardie&team=50003,highlanders,Flanker
+115,12-12-1983,198,Jarrad Hoeata,http://www.foxsports.com.au/rugby/player?id=3912&name=jarrad-hoeata&team=50003,highlanders,Lock,#be8a6c
+110,13-09-1978,183,Andrew Hore,http://www.foxsports.com.au/rugby/player?id=226&name=andrew-hore&team=50003,highlanders,Hooker
+104,09-05-1989,182,T.J. Ioane,http://www.foxsports.com.au/rugby/player?id=5527&name=t.j.-ioane&team=50003,highlanders,Flanker
+118,30-04-1981,186,Chris King,http://www.foxsports.com.au/rugby/player?id=1049&name=chris-king&team=50003,highlanders,Prop,#cfa778
+130,20-02-1985,192,Jamie Mackintosh,http://www.foxsports.com.au/rugby/player?id=1452&name=jamie-mackintosh&team=50003,highlanders,Prop,#c68c78
+112,15-08-1988,190,Nasi Manu,http://www.foxsports.com.au/rugby/player?id=2149&name=nasi-manu&team=50003,highlanders,Flanker,#A96B5C
+104,24-01-1988,183,Brayden Mitchell,http://www.foxsports.com.au/rugby/player?id=4667&name=brayden-mitchell&team=50003,highlanders,Hooker
+117,06-11-1982,184,Bronson Murray,http://www.foxsports.com.au/rugby/player?id=2163&name=bronson-murray&team=50003,highlanders,Prop
+106,13-04-1980,185,Jake Paringatai,http://www.foxsports.com.au/rugby/player?id=1438&name=jake-paringatai&team=50003,highlanders,Lock
+100,15-12-1977,175,Jason Rutledge,http://www.foxsports.com.au/rugby/player?id=1335&name=jason-rutledge&team=50003,highlanders,Hooker
+112,03-02-1975,195,Brad Thorn,http://www.foxsports.com.au/rugby/player?id=376&name=brad-thorn&team=50003,highlanders,Lock
+112,25-03-1981,194,Mose Tuiali'i,http://www.foxsports.com.au/rugby/player?id=1322&name=mose-tuiali'i&team=50003,highlanders,Number 8
+111,20-10-1988,200,Joe Wheeler,http://www.foxsports.com.au/rugby/player?id=3998&name=joe-wheeler&team=50003,highlanders,Lock
+119,27-01-1981,184,Tony Woodcock,http://www.foxsports.com.au/rugby/player?id=229&name=tony-woodcock&team=50003,highlanders,Prop,#dd836a
+92,22-10-1986,182,Phil Burleigh,http://www.foxsports.com.au/rugby/player?id=4032&name=phil-burleigh&team=50003,highlanders,Centre,#7c5f4c
+96,01-04-1983,185,Tamati Ellison,http://www.foxsports.com.au/rugby/player?id=1171&name=tamati-ellison&team=50003,highlanders,Centre,#be7b60
+88,21-09-1993,173,Jason Emery,http://www.foxsports.com.au/rugby/player?id=8288&name=jason-emery&team=50003,highlanders,Outside Back
+85,11-05-1991,187,Tony Ensor,http://www.foxsports.com.au/rugby/player?id=8285&name=tony-ensor&team=50003,highlanders,Fullback
+103,16-03-1984,188,Hosea Gear,http://www.foxsports.com.au/rugby/player?id=1345&name=hosea-gear&team=50003,highlanders,Wing
+101,24-05-1991,181,Maritino Nemani,http://www.foxsports.com.au/rugby/player?id=5912&name=maritino-nemani&team=50003,highlanders,Wing
+107,21-05-1982,182,Ma'a Nonu,http://www.foxsports.com.au/rugby/player?id=1220&name=ma'a-nonu&team=50003,highlanders,Centre,#ba6c3f
+96,28-11-1990,186,Declan O'Donnell,http://www.foxsports.com.au/rugby/player?id=5576&name=declan-o'donnell&team=50003,highlanders,Centre
+92,17-01-1988,176,Kade Poki,http://www.foxsports.com.au/rugby/player?id=2146&name=kade-poki&team=50003,highlanders,Wing
+87,04-12-1989,173,Buxton Popoalii,http://www.foxsports.com.au/rugby/player?id=5538&name=buxton-popoalii&team=50003,highlanders,Fullback
+90,13-05-1988,180,Trent Renata,http://www.foxsports.com.au/rugby/player?id=4031&name=trent-renata&team=50003,highlanders,Fullback
+90,10-10-1987,183,Colin Slade,http://www.foxsports.com.au/rugby/player?id=3484&name=colin-slade&team=50003,highlanders,Fly Half,#deafa3
+83,21-11-1988,171,Aaron Smith,http://www.foxsports.com.au/rugby/player?id=4670&name=aaron-smith&team=50003,highlanders,Scrum Half,#a9836b
+93,01-06-1986,186,Ben Smith,http://www.foxsports.com.au/rugby/player?id=961&name=ben-smith&team=50003,highlanders,Wing,#d19680
+91,03-02-1991,175,Lima Sopoaga,http://www.foxsports.com.au/rugby/player?id=4665&name=lima-sopoaga&team=50003,highlanders,Fly Half,#844f3a
+75,03-01-1985,163,Fumiaki Tanaka,http://www.foxsports.com.au/rugby/player?id=5943&name=fumiaki-tanaka&team=50003,highlanders,Scrum Half
+85,26-01-1989,175,Shaun Treeby,http://www.foxsports.com.au/rugby/player?id=4664&name=shaun-treeby&team=50003,highlanders,Centre
+89,09-02-1989,178,Frae Wilson,http://www.foxsports.com.au/rugby/player?id=5521&name=frae-wilson&team=50003,highlanders,Scrum Half
+112,09-04-1991,206,Dominic Bird,http://www.foxsports.com.au/rugby/player?id=5590&name=dominic-bird&team=50001,crusaders,Lock
+107,23-09-1985,184,Shane Christie,http://www.foxsports.com.au/rugby/player?id=5414&name=shane-christie&team=50001,crusaders,Flanker,#967B70
+106,22-06-1979,183,Laurence Corlett,http://www.foxsports.com.au/rugby/player?id=1047&name=laurence-corlett&team=50001,hurricanes,Hooker
+116,24-01-1983,193,Wyatt Crockett,http://www.foxsports.com.au/rugby/player?id=954&name=wyatt-crockett&team=50001,crusaders,Prop
+113,01-10-1981,200,Tom Donnelly,http://www.foxsports.com.au/rugby/player?id=1320&name=tom-donnelly&team=50001,crusaders,Lock
+108,05-01-1981,184,Corey Flynn,http://www.foxsports.com.au/rugby/player?id=38&name=corey-flynn&team=50001,crusaders,Hooker,#a87565
+118,23-12-1987,185,Owen Franks,http://www.foxsports.com.au/rugby/player?id=3482&name=owen-franks&team=50001,crusaders,Prop,#cb917c
+105,06-06-1990,180,Ben Funnell,http://www.foxsports.com.au/rugby/player?id=5565&name=ben-funnell&team=50001,crusaders,Hooker,#d39779
+116,06-11-1991,184,Nepo Laulala,http://www.foxsports.com.au/rugby/player?id=5594&name=nepo-laulala&team=50001,crusaders,Prop,#ba8167
+107,31-12-1980,187,Richard McCaw,http://www.foxsports.com.au/rugby/player?id=7&name=richard-mccaw&team=50001,crusaders,Flanker
+112,18-09-1988,188,Joe Moody,http://www.foxsports.com.au/rugby/player?id=5504&name=joe-moody&team=50001,crusaders,Prop,#cf967f
+110,26-10-1985,193,Kieran Read,http://www.foxsports.com.au/rugby/player?id=1442&name=kieran-read&team=50001,crusaders,Number 8,#c79083
+115,16-02-1986,199,Luke Romano,http://www.foxsports.com.au/rugby/player?id=4661&name=luke-romano&team=50001,crusaders,Lock,#cd9884
+100,29-01-1992,182,Jordan Taufua,http://www.foxsports.com.au/rugby/player?id=8242&name=jordan-taufua&team=50001,crusaders,Number 8,#a86f56
+106,31-03-1991,183,Codie Taylor,http://www.foxsports.com.au/rugby/player?id=5587&name=codie-taylor&team=50001,crusaders,Hooker
+104,24-03-1988,185,Matt Todd,http://www.foxsports.com.au/rugby/player?id=4658&name=matt-todd&team=50001,crusaders,Flanker
+109,08-08-1992,196,Jimmy Tupou,http://www.foxsports.com.au/rugby/player?id=8258&name=jimmy-tupou&team=50001,crusaders,Flanker,#9d664c
+106,27-03-1986,190,George Whitelock,http://www.foxsports.com.au/rugby/player?id=2150&name=george-whitelock&team=50001,crusaders,Flanker,#c99280
+104,29-01-1991,190,Luke Whitelock,http://www.foxsports.com.au/rugby/player?id=5580&name=luke-whitelock&team=50001,crusaders,Flanker,#b67c65
+116,12-10-1988,202,Sam Whitelock,http://www.foxsports.com.au/rugby/player?id=3915&name=sam-whitelock&team=50001,crusaders,Lock
+96,31-05-1990,185,Tyler Bleyendaal,http://www.foxsports.com.au/rugby/player?id=4660&name=tyler-bleyendaal&team=50001,crusaders,Fly Half,#d9a48e
+94,05-03-1982,178,Daniel Carter,http://www.foxsports.com.au/rugby/player?id=1046&name=daniel-carter&team=50001,crusaders,Fly Half
+91,23-09-1988,179,Ryan Crotty,http://www.foxsports.com.au/rugby/player?id=3481&name=ryan-crotty&team=50001,crusaders,Centre
+95,06-06-1988,186,Israel Dagg,http://www.foxsports.com.au/rugby/player?id=3487&name=israel-dagg&team=50001,crusaders,Fullback,#c68c77
+89,21-02-1984,182,Andrew Ellis,http://www.foxsports.com.au/rugby/player?id=955&name=andrew-ellis&team=50001,crusaders,Scrum Half,#ba7e6f
+104,13-07-1988,190,Robbie Fruean,http://www.foxsports.com.au/rugby/player?id=3578&name=robbie-fruean&team=50001,crusaders,Wing
+94,08-02-1989,182,Zac Guildford,http://www.foxsports.com.au/rugby/player?id=2165&name=zac-guildford&team=50001,crusaders,Wing,#b67f6f
+92,24-11-1986,179,Willi Heinz,http://www.foxsports.com.au/rugby/player?id=4011&name=willi-heinz&team=50001,crusaders,Scrum Half,#d19987
+91,07-05-1990,183,Tom Marshall,http://www.foxsports.com.au/rugby/player?id=4659&name=tom-marshall&team=50001,crusaders,Fullback,#ca8274
+96,24-09-1990,185,Johnny McNicholl,http://www.foxsports.com.au/rugby/player?id=5571&name=johnny-mcnicholl&team=50001,crusaders,Wing,#e7bbae
+92,10-11-1988,177,Jeremy Su'a,http://www.foxsports.com.au/rugby/player?id=6080&name=jeremy-su'a&team=50001,crusaders,Scrum Half
+90,11-03-1989,183,Tom Taylor,http://www.foxsports.com.au/rugby/player?id=4746&name=tom-taylor&team=50001,crusaders,Fly Half,#c58c74
+85,26-12-1990,180,Telusa Veainu,http://www.foxsports.com.au/rugby/player?id=4671&name=telusa-veainu&team=50001,crusaders,Wing,#8d523d
+95,17-04-1987,185,Adam Whitelock,http://www.foxsports.com.au/rugby/player?id=3485&name=adam-whitelock&team=50001,crusaders,Centre
+115,05-02-1988,181,Lourens Adriaanse,http://www.foxsports.com.au/rugby/player?id=4724&name=lourens-adriaanse&team=50018,cheetahs,Prop,#86503e
+113,05-11-1981,185,Ryno Barnes,http://www.foxsports.com.au/rugby/player?id=3471&name=ryno-barnes&team=50018,cheetahs,Hooker,#885641
+102,21-07-1986,181,Heinrich Brussow,http://www.foxsports.com.au/rugby/player?id=1496&name=heinrich-brussow&team=50018,cheetahs,Flanker,#b98876
+125,17-12-1992,204,Lodewyk de Jager,http://www.foxsports.com.au/rugby/player?id=8455&name=lodewyk-de-jager&team=50018,cheetahs,Lock
+118,21-08-1989,186,Rossouw De Klerk,http://www.foxsports.com.au/rugby/player?id=4012&name=rossouw-de-klerk&team=50018,cheetahs,Prop
+120,29-03-1990,197,Andries Ferreira,http://www.foxsports.com.au/rugby/player?id=8071&name=andries-ferreira&team=50018,cheetahs,Lock,#c1866f
+105,11-01-1989,189,Lappies Labuschagne,http://www.foxsports.com.au/rugby/player?id=8063&name=lappies-labuschagne&team=50018,cheetahs,Flanker,#b67c67
+120,24-07-1986,196,Ligtoring Landman,http://www.foxsports.com.au/rugby/player?id=3546&name=ligtoring-landman&team=50018,cheetahs,Lock,#da9d88
+110,16-05-1986,178,Hercu Liebenberg,http://www.foxsports.com.au/rugby/player?id=8072&name=hercu-liebenberg&team=50018,cheetahs,Hooker
+110,23-03-1988,198,Martin Muller,http://www.foxsports.com.au/rugby/player?id=3579&name=martin-muller&team=50018,cheetahs,Lock
+118,04-05-1989,178,Trevor Nyakane,http://www.foxsports.com.au/rugby/player?id=8056&name=trevor-nyakane&team=50018,cheetahs,Prop
+116,01-09-1989,186,Caylib Oosthuizen,http://www.foxsports.com.au/rugby/player?id=8080&name=caylib-oosthuizen&team=50018,cheetahs,Prop,#ab755c
+127,22-03-1989,187,Coenie Oosthuizen,http://www.foxsports.com.au/rugby/player?id=3474&name=coenie-oosthuizen&team=50018,cheetahs,Prop,#c0846d
+104,12-03-1989,184,Johannes Gerhardus Prinsloo,http://www.foxsports.com.au/rugby/player?id=8167&name=boom-prinsloo&team=50018,cheetahs,Number 8
+100,16-07-1984,195,Davon Raubenheimer,http://www.foxsports.com.au/rugby/player?id=3852&name=davon-raubenheimer&team=50018,cheetahs,Flanker
+100,09-02-1989,180,Marnus Schoeman,http://www.foxsports.com.au/rugby/player?id=8457&name=marnus-schoeman&team=50018,cheetahs,Flanker
+110,18-11-1985,184,Adriaan Strauss,http://www.foxsports.com.au/rugby/player?id=1039&name=adriaan-strauss&team=50018,cheetahs,Hooker,#b47b6a
+112,12-03-1986,194,Francois Uys,http://www.foxsports.com.au/rugby/player?id=3563&name=francois-uys&team=50018,cheetahs,Flanker,#90604a
+110,14-07-1989,194,Philip van der Walt,http://www.foxsports.com.au/rugby/player?id=4025&name=philip-van-der-walt&team=50018,cheetahs,Flanker
+100,30-06-1987,176,Torsten van Jaarsveld,http://www.foxsports.com.au/rugby/player?id=8458&name=torsten-van-jaarsveld&team=50018,cheetahs,Hooker
+106,11-11-1988,198,Waltie Vermeulen,http://www.foxsports.com.au/rugby/player?id=3983&name=waltie-vermeulen&team=50018,cheetahs,Lock
+112,22-10-1982,190,Frans Viljoen,http://www.foxsports.com.au/rugby/player?id=1200&name=frans-viljoen&team=50018,cheetahs,Number 8
+94,03-08-1983,189,Ryno Benjamin,http://www.foxsports.com.au/rugby/player?id=1009&name=ryno-benjamin&team=50018,cheetahs,Centre,#ad745b
+92,17-05-1989,183,Francois Brummer,http://www.foxsports.com.au/rugby/player?id=4040&name=francois-brummer&team=50018,cheetahs,Fly Half
+101,05-04-1984,194,Hennie Daniller,http://www.foxsports.com.au/rugby/player?id=1378&name=hennie-daniller&team=50018,cheetahs,Fullback,#c5876c
+86,05-08-1982,174,Tewis de Bruyn,http://www.foxsports.com.au/rugby/player?id=2880&name=tewis-de-bruyn&team=50018,cheetahs,Scrum Half
+87,23-02-1989,180,Robert Ebersohn,http://www.foxsports.com.au/rugby/player?id=3979&name=robert-ebersohn&team=50018,cheetahs,Centre
+92,02-01-1987,184,Burton Francis,http://www.foxsports.com.au/rugby/player?id=3113&name=burton-francis&team=50018,cheetahs,Fly Half
+91,30-04-1982,184,Barry Geel,http://www.foxsports.com.au/rugby/player?id=4000&name=barry-geel&team=50018,cheetahs,Centre
+89,27-07-1992,185,Johan Goosen,http://www.foxsports.com.au/rugby/player?id=8055&name=johan-goosen&team=50018,cheetahs,Fly Half,#bb7d68
+96,10-09-1989,191,Hansie Graaff,http://www.foxsports.com.au/rugby/player?id=8456&name=hansie-graaff&team=50018,cheetahs,Fly Half
+90,18-08-1989,186,Willie Le Roux,http://www.foxsports.com.au/rugby/player?id=8054&name=willie-le-roux&team=50018,cheetahs,Fly Half
+95,09-01-1981,184,JP Nel,http://www.foxsports.com.au/rugby/player?id=1217&name=jp-nel&team=50018,cheetahs,Centre
+95,30-04-1984,181,Dusty Noble,http://www.foxsports.com.au/rugby/player?id=1000&name=dusty-noble&team=50018,cheetahs,Wing
+84,18-04-1984,174,Sarel Pretorius,http://www.foxsports.com.au/rugby/player?id=3475&name=sarel-pretorius&team=50018,cheetahs,Scrum Half,#d4a18c
+85,06-11-1992,180,Raymond Rhule,http://www.foxsports.com.au/rugby/player?id=8376&name=raymond-rhule&team=50018,cheetahs,Wing
+94,23-01-1989,188,Johann Sadie,http://www.foxsports.com.au/rugby/player?id=4700&name=johann-sadie&team=50018,cheetahs,Centre,#c28c7a
+85,28-04-1984,178,Riaan Smit,http://www.foxsports.com.au/rugby/player?id=4732&name=riaan-smit&team=50018,cheetahs,Wing,#ce8a78
+84,14-09-1989,174,Piet van Zyl,http://www.foxsports.com.au/rugby/player?id=8065&name=piet-van-zyl&team=50018,cheetahs,Scrum Half,#c37c79
+87,24-09-1985,181,Elgar Watts,http://www.foxsports.com.au/rugby/player?id=8481&name=elgar-watts&team=50018,cheetahs,Fly Half,#c68567
+106,26-10-1991,190,Arno Botha,http://www.foxsports.com.au/rugby/player?id=8043&name=arno-botha&team=50007,bulls,Flanker,#c2827a
+105,14-08-1991,193,Jean Cook,http://www.foxsports.com.au/rugby/player?id=8484&name=jean-cook&team=50007,bulls,Flanker,#c58878
+119,12-08-1993,201,Jacques du Plessis,http://www.foxsports.com.au/rugby/player?id=8672&name=jacques-du-plessis&team=50007,bulls,Lock,#cb8481
+120,01-01-1986,186,Dean Greyling,http://www.foxsports.com.au/rugby/player?id=3086&name=dean-greyling&team=50007,bulls,Prop,#9d6463
+107,03-10-1990,201,Grant Hattingh,http://www.foxsports.com.au/rugby/player?id=8099&name=grant-hattingh&team=50007,bulls,Lock,#de878b
+120,18-09-1988,193,Frik Kirsten,http://www.foxsports.com.au/rugby/player?id=3554&name=frik-kirsten&team=50007,bulls,Prop,#bf7f77
+110,06-09-1985,198,Juandre Kruger,http://www.foxsports.com.au/rugby/player?id=4650&name=juandre-kruger&team=50007,bulls,Lock
+117,23-01-1985,190,Werner Kruger,http://www.foxsports.com.au/rugby/player?id=2875&name=werner-kruger&team=50007,bulls,Prop,#ca7874
+98,07-01-1991,176,Bongi Mbonambi,http://www.foxsports.com.au/rugby/player?id=8049&name=bongi-mbonambi&team=50007,bulls,Hooker,#76463e
+115,02-10-1989,185,Morne Mellett,http://www.foxsports.com.au/rugby/player?id=8445&name=morne-mellett&team=50007,bulls,Prop,#bf7e6f
+102,22-02-1987,190,Dewald Potgieter,http://www.foxsports.com.au/rugby/player?id=2877&name=dewald-potgieter&team=50007,bulls,Number 8
+112,24-04-1986,194,Jacques Potgieter,http://www.foxsports.com.au/rugby/player?id=8045&name=jacques-potgieter&team=50007,bulls,Flanker,#bd815f
+106,11-09-1986,180,Chiliboy Ralepelle,http://www.foxsports.com.au/rugby/player?id=1203&name=chiliboy-ralepelle&team=50007,bulls,Hooker
+108,27-10-1990,190,Jono Ross,http://www.foxsports.com.au/rugby/player?id=8664&name=jono-ross&team=50007,bulls,Back Row,#ad6c6a
+108,08-06-1985,194,Pierre Spies,http://www.foxsports.com.au/rugby/player?id=1204&name=pierre-spies&team=50007,bulls,Number 8,#bc7d71
+109,07-02-1985,200,Wilhelm Steenkamp,http://www.foxsports.com.au/rugby/player?id=1390&name=wilhelm-steenkamp&team=50007,bulls,Lock,#ca6b47
+101,22-03-1986,181,Deon Stegmann,http://www.foxsports.com.au/rugby/player?id=3071&name=deon-stegmann&team=50007,bulls,Flanker,#c5857f
+117,03-06-1985,198,Flip van der Merwe,http://www.foxsports.com.au/rugby/player?id=1482&name=flip-van-der-merwe&team=50007,bulls,Lock,#ba6c65
+119,02-03-1992,183,Hencus van Wyk,http://www.foxsports.com.au/rugby/player?id=8498&name=hencus-van-wyk&team=50007,bulls,Prop
+108,09-07-1988,188,Callie Visagie,http://www.foxsports.com.au/rugby/player?id=8068&name=callie-visagie&team=50007,bulls,Hooker,#c2807c
+108,02-04-1981,179,Willie Wepener,http://www.foxsports.com.au/rugby/player?id=933&name=willie-wepener&team=50007,bulls,Hooker
+127,13-11-1992,200,Paul Willemse,http://www.foxsports.com.au/rugby/player?id=8093&name=paul-willemse&team=50007,bulls,Lock,#cb827d
+87,11-02-1987,185,Bjorn Basson,http://www.foxsports.com.au/rugby/player?id=3472&name=bjorn-basson&team=50007,bulls,Wing,#ba7d77
+97,22-01-1991,189,Ulrich Beyers,http://www.foxsports.com.au/rugby/player?id=8493&name=ulrich-beyers&team=50007,bulls,Fullback,#a26e69
+95,22-02-1989,190,JJ Engelbrecht,http://www.foxsports.com.au/rugby/player?id=3510&name=jj-engelbrecht&team=50007,bulls,Wing,#a3756f
+98,04-01-1990,186,Louis Fouche,http://www.foxsports.com.au/rugby/player?id=8044&name=louis-fouche&team=50007,bulls,Fly Half,#c68078
+92,06-04-1988,180,Francois Hougaard,http://www.foxsports.com.au/rugby/player?id=2873&name=francois-hougaard&team=50007,bulls,Scrum Half,#ce8e85
+96,16-06-1984,186,Zane Kirchner,http://www.foxsports.com.au/rugby/player?id=2874&name=zane-kirchner&team=50007,bulls,Fullback
+87,13-07-1988,182,Lionel Mapoe,http://www.foxsports.com.au/rugby/player?id=3980&name=lionel-mapoe&team=50007,bulls,Wing
+87,03-08-1990,180,Sampie Mastriet,http://www.foxsports.com.au/rugby/player?id=8444&name=sampie-mastriet&team=50007,bulls,Wing
+92,20-02-1981,182,Akona Ndungane,http://www.foxsports.com.au/rugby/player?id=1305&name=akona-ndungane&team=50007,bulls,Wing,#8a5c53
+94,11-06-1983,186,Wynand Olivier,http://www.foxsports.com.au/rugby/player?id=1379&name=wynand-olivier&team=50007,bulls,Centre
+77,02-08-1989,169,Rudy Paige,http://www.foxsports.com.au/rugby/player?id=8447&name=rudy-paige&team=50007,bulls,Scrum Half,#8c5a51
+96,11-03-1994,189,Handre Pollard,http://www.foxsports.com.au/rugby/player?id=8451&name=handre-pollard&team=50007,bulls,Fly Half,#bb7c77
+97,15-04-1993,187,Jan Serfontein,http://www.foxsports.com.au/rugby/player?id=8452&name=jan-serfontein&team=50007,bulls,Centre,#b47672
+92,31-03-1992,184,William Small-Smith,http://www.foxsports.com.au/rugby/player?id=8453&name=william-small-smith&team=50007,bulls,Centre,#ca8986
+80,09-03-1987,185,Ruan Snyman,http://www.foxsports.com.au/rugby/player?id=4039&name=ruan-snyman&team=50007,bulls,Scrum Half
+91,11-07-1984,182,Morne Steyn,http://www.foxsports.com.au/rugby/player?id=1301&name=morne-steyn&team=50007,bulls,Fly Half
+93,19-04-1991,185,Francois Venter,http://www.foxsports.com.au/rugby/player?id=8048&name=francois-venter&team=50007,bulls,Centre,#885a46
+83,01-01-1985,172,Jano Vermaak,http://www.foxsports.com.au/rugby/player?id=1027&name=jano-vermaak&team=50007,bulls,Scrum Half
+92,13-09-1989,191,Jurgen Visser,http://www.foxsports.com.au/rugby/player?id=8047&name=jurgen-visser&team=50007,bulls,Fullback,#cb8a85
+120,13-11-1984,189,Ben Alexander,http://www.foxsports.com.au/rugby/player?id=3083&name=ben-alexander&team=50002,brumbies,Prop,#d68b75
+115,29-01-1984,189,Fotu Auelua,http://www.foxsports.com.au/rugby/player?id=7893&name=fotu-auelua&team=50002,brumbies,Number 8,#8e5840
+110,10-09-1989,200,Sam Carter,http://www.foxsports.com.au/rugby/player?id=4924&name=sam-carter&team=50002,brumbies,Lock,#956656
+100,31-03-1991,182,Colby Faingaa,http://www.foxsports.com.au/rugby/player?id=4017&name=colby-fainga'a&team=50002,brumbies,Flanker,#a45f4b
+110,05-07-1984,198,Scott Fardy,http://www.foxsports.com.au/rugby/player?id=2176&name=scott-fardy&team=50002,brumbies,Lock,#b17c6d
+110,11-07-1985,198,Peter Kimlin,http://www.foxsports.com.au/rugby/player?id=1486&name=peter-kimlin&team=50002,brumbies,Lock
+105,19-02-1981,181,Josh Mann-Rea,http://www.foxsports.com.au/rugby/player?id=8105&name=josh-mann-rea&team=50002,brumbies,Hooker
+112,20-01-1983,186,Stephen Moore,http://www.foxsports.com.au/rugby/player?id=1107&name=stephen-moore&team=50002,brumbies,Hooker,#d08a6f
+110,01-12-1984,195,Ben Mowen,http://www.foxsports.com.au/rugby/player?id=975&name=ben-mowen&team=50002,brumbies,Number 8,#c1857c
+119,05-07-1987,187,Ruaidhri Murphy,http://www.foxsports.com.au/rugby/player?id=7886&name=ruaidhri-murphy&team=50002,brumbies,Prop,#915d49
+120,22-12-1992,193,Etienne Oosthuizen,http://www.foxsports.com.au/rugby/player?id=8094&name=etienne-oosthuizen&team=50002,brumbies,Back Row
+112,13-09-1988,180,Dan Palmer,http://www.foxsports.com.au/rugby/player?id=3080&name=dan-palmer&team=50002,brumbies,Prop
+104,23-04-1988,184,David Pocock,http://www.foxsports.com.au/rugby/player?id=939&name=david-pocock&team=50002,brumbies,Flanker,#ae7763
+116,27-02-1986,200,Leon Power,http://www.foxsports.com.au/rugby/player?id=5424&name=leon-power&team=50002,brumbies,Lock,#aa6d56
+112,11-12-1991,177,Siliva Siliva,http://www.foxsports.com.au/rugby/player?id=7887&name=siliva-siliva&team=50002,brumbies,Hooker,#b57e62
+116,16-10-1991,187,Scott Sio,http://www.foxsports.com.au/rugby/player?id=7898&name=scott-sio&team=50002,brumbies,Prop,#8a583e
+107,19-06-1985,193,Jordan Smiler,http://www.foxsports.com.au/rugby/player?id=8411&name=jordan-smiler&team=50002,brumbies,Flanker,#a46c4e
+104,14-07-1980,180,George Smith,http://www.foxsports.com.au/rugby/player?id=25&name=george-smith&team=50002,brumbies,Flanker
+121,24-01-1990,188,Ruan Smith,http://www.foxsports.com.au/rugby/player?id=8159&name=ruan-smith&team=50002,brumbies,Prop,#a67258
+119,09-02-1989,187,Ita Vaea,http://www.foxsports.com.au/rugby/player?id=4712&name=ita-vaea&team=50002,brumbies,Number 8
+83,03-08-1990,179,Robbie Coleman,http://www.foxsports.com.au/rugby/player?id=4030&name=robbie-coleman&team=50002,brumbies,Centre,#9f6a54
+91,04-10-1988,186,Tom Cox,http://www.foxsports.com.au/rugby/player?id=7894&name=tom-cox&team=50002,brumbies,Wing
+87,30-05-1990,175,Zack Holmes,http://www.foxsports.com.au/rugby/player?id=7895&name=zack-holmes&team=50002,brumbies,Centre,#cd806e
+102,31-03-1991,196,Tevita Kuridrani,http://www.foxsports.com.au/rugby/player?id=7896&name=tevita-kuridrani&team=50002,brumbies,Centre,#4b352c
+95,24-09-1987,179,Christian Lealiifano,http://www.foxsports.com.au/rugby/player?id=2898&name=christian-leali'ifano&team=50002,brumbies,Fly Half,#b57f6a
+94,21-03-1988,186,Pat McCabe,http://www.foxsports.com.au/rugby/player?id=3904&name=pat-mccabe&team=50002,brumbies,Centre,#a37260
+90,08-06-1989,187,Jesse Mogg,http://www.foxsports.com.au/rugby/player?id=7888&name=jesse-mogg&team=50002,brumbies,Fullback,#c89e90
+83,21-08-1990,179,Ian Prior,http://www.foxsports.com.au/rugby/player?id=4729&name=ian-prior&team=50002,brumbies,Scrum Half,#db8375
+93,23-07-1981,181,Clyde Rathbone,http://www.foxsports.com.au/rugby/player?id=166&name=clyde-rathbone&team=50002,brumbies,Wing,#b37a5d
+104,10-01-1985,194,Andrew Smith,http://www.foxsports.com.au/rugby/player?id=3905&name=andrew-smith&team=50002,brumbies,Centre,#a8745b
+97,24-03-1988,186,Henry Speight,http://www.foxsports.com.au/rugby/player?id=4701&name=henry-speight&team=50002,brumbies,Wing,#855846
+91,26-10-1990,181,Mark Swanepoel,http://www.foxsports.com.au/rugby/player?id=3945&name=mark-swanepoel&team=50002,brumbies,Scrum Half
+102,02-02-1990,190,Joseph Tomane,http://www.foxsports.com.au/rugby/player?id=7892&name=joseph-tomane&team=50002,brumbies,Centre,#b57e68
+91,02-01-1990,182,Matt Toomua,http://www.foxsports.com.au/rugby/player?id=2870&name=matt-toomua&team=50002,brumbies,Fly Half
+98,21-04-1991,192,Stephan Van Der Walt,http://www.foxsports.com.au/rugby/player?id=8412&name=stephan-van-der-walt&team=50002,brumbies,Centre,#a0624a
+82,13-06-1990,173,Nic White,http://www.foxsports.com.au/rugby/player?id=4648&name=nic-white&team=50002,brumbies,Scrum Half,#bc8f83
+111,16-04-1990,194,Kane Barrett,http://www.foxsports.com.au/rugby/player?id=5562&name=kane-barrett&team=50012,blues,Lock
+113,27-12-1983,200,Anthony Boric,http://www.foxsports.com.au/rugby/player?id=940&name=anthony-boric&team=50012,blues,Lock
+101,05-10-1988,185,Luke Braid,http://www.foxsports.com.au/rugby/player?id=3913&name=luke-braid&team=50012,blues,Flanker
+128,24-12-1986,186,Charlie Faumuina,http://www.foxsports.com.au/rugby/player?id=3464&name=charlie-faumuina&team=50012,blues,Prop
+115,29-04-1991,196,Steven Luatua,http://www.foxsports.com.au/rugby/player?id=5591&name=steven-luatua&team=50012,blues,Lock,#b66540
+102,25-09-1988,181,Quentin MacDonald,http://www.foxsports.com.au/rugby/player?id=3987&name=quentin-macdonald&team=50012,blues,Hooker
+109,06-09-1985,185,Tom McCartney,http://www.foxsports.com.au/rugby/player?id=2161&name=tom-mccartney&team=50012,blues,Hooker,#d0826a
+108,20-03-1979,181,Keven Mealamu,http://www.foxsports.com.au/rugby/player?id=188&name=keven-mealamu&team=50012,blues,Hooker,#b76746
+114,04-01-1990,197,Liaki Moli,http://www.foxsports.com.au/rugby/player?id=4645&name=liaki-moli&team=50012,blues,Lock
+100,11-09-1989,186,Brendon O'Connor,http://www.foxsports.com.au/rugby/player?id=5535&name=brendon-o'connor&team=50012,blues,Flanker,#ce896f
+105,27-11-1986,185,James Parsons,http://www.foxsports.com.au/rugby/player?id=5439&name=james-parsons&team=50012,blues,Hooker,#cb8367
+116,01-08-1988,188,Tim Perry,http://www.foxsports.com.au/rugby/player?id=8240&name=tim-perry&team=50012,blues,Prop,#c68b77
+111,16-01-1990,196,Sam Prattley,http://www.foxsports.com.au/rugby/player?id=5544&name=sam-prattley&team=50012,blues,Prop,#e08c74
+108,07-04-1990,193,Ronald Raaymakers,http://www.foxsports.com.au/rugby/player?id=5560&name=ronald-raaymakers&team=50012,blues,Flanker
+113,08-05-1985,198,Culum Retallick,http://www.foxsports.com.au/rugby/player?id=3910&name=culum-retallick&team=50012,blues,Lock
+111,04-01-1988,189,Peter Saili,http://www.foxsports.com.au/rugby/player?id=3551&name=peter-saili&team=50012,blues,Number 8,#7d381d
+104,21-01-1992,178,Gafatasi Su?a,http://www.foxsports.com.au/rugby/player?id=8592&name=gafatasi-su'a&team=50012,blues,Hooker
+125,22-03-1990,194,Angus Ta'avao,http://www.foxsports.com.au/rugby/player?id=5555&name=angus-ta'avao&team=50012,blues,Prop,#c8764c
+129,19-04-1992,195,Ofa Tu'ungafasi,http://www.foxsports.com.au/rugby/player?id=8229&name=ofa-tu'ungafasi&team=50012,blues,Prop
+118,03-04-1981,202,Ali Williams,http://www.foxsports.com.au/rugby/player?id=269&name=ali-williams&team=50012,blues,Lock
+99,10-05-1992,187,Malakai Fekitoa,http://www.foxsports.com.au/rugby/player?id=8228&name=malakai-fekitoa&team=50012,blues,Inside Back
+80,23-02-1992,176,Jamison Gibson-Park,http://www.foxsports.com.au/rugby/player?id=8272&name=jamison-gibson-park&team=50012,blues,Scrum Half,#c97b54
+105,06-03-1988,195,Frank Halai,http://www.foxsports.com.au/rugby/player?id=5480&name=frank-halai&team=50012,blues,Wing
+89,03-02-1992,183,Bryn Hall,http://www.foxsports.com.au/rugby/player?id=8236&name=bryn-hall&team=50012,blues,Scrum Half,#c77858
+85,14-08-1992,183,Marty McKenzie,http://www.foxsports.com.au/rugby/player?id=5940&name=marty-mckenzie&team=50012,blues,Outside Back
+104,05-11-1990,188,George Moala,http://www.foxsports.com.au/rugby/player?id=5632&name=george-moala&team=50012,blues,Wing,#b56a45
+96,08-05-1991,186,Waisake Naholo,http://www.foxsports.com.au/rugby/player?id=5636&name=waisake-naholo&team=50012,blues,Wing
+94,13-10-1988,178,Wayne Ngaluafe,http://www.foxsports.com.au/rugby/player?id=5508&name=wayne-ngaluafe&team=50012,blues,Scrum Half
+98,07-08-1992,174,Albert Nikoro,http://www.foxsports.com.au/rugby/player?id=8168&name=albert-nikoro&team=50012,blues,Outside Back
+88,21-07-1985,181,Chris Noakes,http://www.foxsports.com.au/rugby/player?id=5494&name=chris-noakes&team=50012,blues,Fly Half
+95,31-10-1991,186,Charles Piutau,http://www.foxsports.com.au/rugby/player?id=5599&name=charles-piutau&team=50012,blues,Wing
+96,30-09-1986,182,Rene Ranger,http://www.foxsports.com.au/rugby/player?id=3468&name=rene-ranger&team=50012,blues,Wing
+99,16-02-1991,180,Francis Saili,http://www.foxsports.com.au/rugby/player?id=5643&name=francis-saili&team=50012,blues,Wing
+99,17-01-1993,194,Lolagi Visinia,http://www.foxsports.com.au/rugby/player?id=8231&name=lolagi-visinia&team=50012,blues,Outside Back
+96,07-09-1983,178,Piri Weepu,http://www.foxsports.com.au/rugby/player?id=1351&name=piri-weepu&team=50012,blues,Scrum Half
+94,05-09-1988,183,Jackson Willison,http://www.foxsports.com.au/rugby/player?id=3480&name=jackson-willison&team=50012,blues,Centre,#be7046
