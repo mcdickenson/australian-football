@@ -48,3 +48,21 @@ write.csv(players, file="data/players.csv", row.names=FALSE)
 summary(players$height)
 summary(players$weight)
 summary(players$age)
+
+colors = c("#e41a1c", "#377eb8", "#4daf4a", "#984ea3")
+players$color = NA 
+for(i in 1:length(colors)){
+  league = leagues[i]
+  color = colors[i]
+  players$color = ifelse(players$league==league, color, players$color)
+}
+
+pdf("graphics/players-descriptive.pdf")
+plot(jitter(players$weight), jitter(players$height),
+  col=players$color, pch=16,
+  xlab="Weight (kg)",
+  ylab="Height (cm)")
+legend('topleft', 
+  legend=c("Australian Football", "A-League Football", "National Rugby", "Super Rugby"), 
+  col=colors, pch=16)
+dev.off()
